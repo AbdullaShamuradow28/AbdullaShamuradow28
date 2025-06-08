@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Greetings, human! I'm Miral Abbastada! Full-Stack developer with 3+ years of EXP in the IT Industry<br><br>🧡 I specialize in building of modern web and mobile applications<br><br>🔶 About me<br><br>💻 Full Stack Developer (Frontend & Backend)<br>📱 Mobile App Developer using **Flutter**<br>🌐 Experienced with modern frameworks and tools<br>🔧 Learning new, building new
+
+
+# 💎 About Me:
+👋 Hello! I'm Abdulla Shamuradow! Full-Stack developer with 3+ years of experience in the IT Industry<br><br>🔮 I specialize in building of modern web and mobile applications<br><br>🎾 About me<br><br>💻 Full Stack Developer (Frontend & Backend)<br>📱 Mobile App Developer using **Flutter**<br>🌐 Experienced with modern frameworks and tools<br>🔧 Learning new, building new
 
 
 # 💻 Tech Stack:
