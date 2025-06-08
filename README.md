@@ -12,11 +12,53 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaShamuradow28&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdullaShamuradow28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🚀 **My Projects: Attempting to enter new digital era**
+
+Here's my list of ongoing projects! I'm building something big, and this is just the beginning. Below, you'll find a breakdown of what I've been working on, including exciting future developments!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdullaShamuradow28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **Miral Account**
+
+- **Description**: The Miral Account is my version of a unified login system, similar to how Google allows you to use a single account for all Google products. It's designed to make managing different services under my ecosystem a breeze.
+- **What It Does**:
+  - One account to manage everything 🧑‍💻
+  - Easy settings & preference management ⚙️
+  - Seamless integration with other services in the ecosystem 🔗
+
+---
+
+## 💬 **Miral Chat (Telegram Alternative)**
+
+- **Description**: This is my very own chat app, designed to be a worthy alternative to Telegram. It's packed with fresh, cool features that you won’t find anywhere else — and I’m not done yet! Expect the full release in 2026.
+- **Key Features**:
+  - Enhanced privacy and security 🔒
+  - Advanced group and channel management 📱
+  - Cool integrations and unique functionalities ✨
+  - A whole new level of chatting that you’ve never seen before 💥
+
+---
+
+## 📰 **Miral News (News App)**
+
+- **Description**: A new way to stay informed! Miral News is an app that allows you to both **read** and **post** articles on a variety of topics, ranging from tech to entertainment and beyond. Whether you're a reader or a writer, Miral News is here for you.
+- **What It Does**:
+  - Discover news tailored to your interests 🔍
+  - Publish and share articles with others ✍️
+  - Engage in discussions and stay up-to-date with the world 🌎
+
+---
+
+## 🔮 **What's Next?**
+
+I’m just getting started, and there's so much more to come. In 2026, **Miral Chat** will be fully finished, and I plan to continue improving the Miral ecosystem, integrating even more services, features, and making everything work together as seamlessly as possible. 🚀
+
+---
+
+## ✨ **Conclusion**
+
+This is only the beginning of my journey! I’m building a digital ecosystem that will revolutionize the way we interact with technology. The best is yet to come — stay tuned for exciting updates and new projects that will make the Miral ecosystem more powerful and user-friendly than ever before. 
+
+Let's keep moving forward! 💡 MIRAL ABBASTADA WILL WIN THIS BATTLE!
