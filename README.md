@@ -53,7 +53,11 @@ Here's my list of ongoing projects! I'm building something big, and this is just
 
 ## 🔮 **What's Next?**
 
-I’m just getting started, and there's so much more to come. In 2026, **Miral Chat** will be fully finished, and I plan to continue improving the Miral ecosystem, integrating even more services, features, and making everything work together as seamlessly as possible. 🚀
+Right now, I’m fully immersed in building these projects and shaping the Miral ecosystem. My goal is to finish **Miral Chat** by 2026 and integrate all the pieces to create a seamless, powerful platform. Along with **Miral News** and the **Miral Account**, I want to ensure that everything works together to provide users with an exceptional, unified experience. 🌐
+
+Beyond these projects, I’m also focused on growing my skills and knowledge to eventually join a large, renowned company. I believe my experience in building an entire ecosystem from scratch will help me contribute to innovative, impactful projects in a big way. 🚀
+
+The ultimate aim is to finish these projects, create an incredible ecosystem, and find a role in a well-established, popular company where I can continue to challenge myself and make a difference. Let’s see where this journey takes me! 👨‍💻💼
 
 ---
 
