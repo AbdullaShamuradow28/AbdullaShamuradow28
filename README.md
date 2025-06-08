@@ -1,4 +1,4 @@
-
+![gif](https://cdn.discordapp.com/banners/275875448116871168/a_e211c5aaf88600fa18c93186fb43bf89.gif?size=2048)
 
 # 💎 About Me:
 👋 Hello! I'm Abdulla Shamuradow! Full-Stack developer with 3+ years of experience in the IT Industry<br><br>🔮 I specialize in building of modern web and mobile applications<br><br>🎾 About me<br><br>💻 Full Stack Developer (Frontend & Backend)<br>📱 Mobile App Developer using **Flutter**<br>🌐 Experienced with modern frameworks and tools<br>🔧 Learning new, building new
