@@ -16,7 +16,7 @@
 
 # 🚀 **My Projects: Attempting to enter new digital era**
 
-Here's my list of ongoing projects! I'm building something big, and this is just the beginning. Below, you'll find a breakdown of what I've been working on, including exciting future developments!
+Here's my list of <b>ongoing projects</b>! I'm building something big, and this is just the beginning. Below, you'll find a breakdown of what I've been working on, including exciting future developments!
 
 ---
 
